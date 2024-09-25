@@ -6,7 +6,7 @@ int main(){
 
     char nome[30] = "Rio de Janeiro";
     int populacao = 16.60000 ;
-    float  km = 1.2;
+    float  km = 43.78;
     int PIB = 753.83  ;
     int pontos_turisticos = 20;
     
